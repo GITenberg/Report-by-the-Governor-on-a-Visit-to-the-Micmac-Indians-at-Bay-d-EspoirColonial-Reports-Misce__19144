@@ -1,0 +1,30 @@
+_repo: Report-by-the-Governor-on-a-Visit-to-the-Micmac-Indians-at-Bay-d-EspoirColonial-Reports-Misce__19144
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacGregor, William
+    birthdate: 1846
+    deathdate: 1919
+    gutenberg_agent_id: '8503'
+    url: http://www.gutenberg.org/2009/agents/8503
+    wikipedia: http://en.wikipedia.org/wiki/William_MacGregor
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2006-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Micmac Indians'
+title: 'Report by the Governor on a Visit to the Micmac Indians at Bay d''Espoir
+
+  Colonial Reports, Miscellaneous. No. 54. Newfoundland'
+url: http://www.gutenberg.org/ebooks/19144
